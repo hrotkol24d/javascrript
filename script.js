@@ -42,3 +42,6 @@ console.log({
     "firstName": "John",
     "lastName": "Doe",
 });
+
+document.getElementById('cim').style.backgroundColor = 'red';
+document.getElementById('cim').style.border = '2px solid black';
